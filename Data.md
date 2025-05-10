@@ -1,0 +1,1 @@
+Autoscaling group that scales the nodes.
